@@ -31,7 +31,4 @@ url: 'https://thegrid.ai/transferbee.com/'
 purpose:
   - type: contact
     url: 'mailto:info@transferbee.com'
-    label: Email
-  - type: contact
-    url: 'tel:07958060125'
-    label: Call 07958060125
+    label: Contact me
