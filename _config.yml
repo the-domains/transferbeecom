@@ -1,0 +1,37 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: transferbee.com
+layout_spectrum: 0.6193950653541833
+typography_spectrum: 0.5634701352100819
+color:
+  brandStrength: 0.3777059980202466
+  lightness: 0.10054579237475991
+  saturation: 0.843026231508702
+  rhythmicContrast: 0.6345921254251152
+  brandColors:
+    - '#DCDCDC'
+    - '#282828'
+    - '#FF960F'
+    - '#676767'
+    - '#1CCAEF'
+content: []
+title: TransferBee
+description: Shipping goods from UK
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b762c31-3ba2-4312-8b39-7049d4e9ceae.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b63570ee-53f7-4497-98a7-892c9761228f.png
+url: 'https://thegrid.ai/transferbee.com/'
+purpose:
+  - type: contact
+    url: 'mailto:info@transferbee.com'
+    label: Email
+  - type: contact
+    url: 'tel:07958060125'
+    label: Call 07958060125
