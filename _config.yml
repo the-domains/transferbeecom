@@ -21,17 +21,10 @@ color:
     - '#1CCAEF'
 content: []
 title: TransferBee
-description: Shipping goods from UK
+description: ''
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b762c31-3ba2-4312-8b39-7049d4e9ceae.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b63570ee-53f7-4497-98a7-892c9761228f.png
 url: 'https://thegrid.ai/transferbee.com/'
-purpose:
-  - type: contact
-    url: 'mailto:info@transferbee.com'
-    label: Contact me
-  - type: contact
-    url: 'tel:07958060125'
-    label: Call 07958060125
